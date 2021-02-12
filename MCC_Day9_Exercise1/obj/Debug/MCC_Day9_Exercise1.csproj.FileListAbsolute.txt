@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\bin\Debug\MCC_Day9_Exercise1.exe.config
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\bin\Debug\MCC_Day9_Exercise1.exe
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\bin\Debug\MCC_Day9_Exercise1.pdb
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\obj\Debug\MCC_Day9_Exercise1.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\obj\Debug\MCC_Day9_Exercise1.exe
+C:\Users\Acer\source\repos\MCC_Day9_Exercise1\MCC_Day9_Exercise1\obj\Debug\MCC_Day9_Exercise1.pdb
